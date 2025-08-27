@@ -38,6 +38,8 @@ main{
 .main-div{
         height: 100vh;
     width: 50%;
+    max-width: 600px;
+    min-width: 300px;
     background-color: var(--mainDivColor);
     margin-top: 35%;
     margin-bottom: 25%;
@@ -130,3 +132,5 @@ p .avtar {
 .attribution a { color: hsl(228, 45%, 44%); }
 
 
+
+    
