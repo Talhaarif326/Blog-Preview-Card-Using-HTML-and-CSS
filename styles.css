@@ -44,6 +44,7 @@ main{
     border-radius: 20px;
     box-shadow: 9px 8px 0px 0px black;
     padding: 15px;
+    overflow-Y: hidden; 
     
 }
 
@@ -127,5 +128,6 @@ p .avtar {
 
 
 .attribution a { color: hsl(228, 45%, 44%); }
+
 
 
