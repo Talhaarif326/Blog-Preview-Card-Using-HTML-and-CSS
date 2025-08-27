@@ -7,7 +7,7 @@ Frontend Mentor challenges help improve coding skills by building realistic proj
 
 ## 📸 Screenshot
 
-![Blog Preview Card Screenshot](./screenshot.jpg)
+![Blog Preview Card Screenshot](./screenshot.png)
 
 ---
 
@@ -54,7 +54,7 @@ Frontend Mentor challenges help improve coding skills by building realistic proj
 
 ## 👨‍💻 Author
 
-- GitHub - [Talha Arif](https://github.com/Talhaarif326)  
-- Frontend Mentor - [@Talhaarif326](https://www.frontendmentor.io/profile/Talhaarif326)  
-- Twitter - [@TalhaArif794](https://twitter.com/TalhaArif794)  
-- LinkedIn - [Talha Arif](https://www.linkedin.com/in/talha-arif-247b67291) 
+- [GitHub - Talha Arif](https://github.com/Talhaarif326)  
+- [Frontend Mentor - @Talhaarif326](https://www.frontendmentor.io/profile/Talhaarif326)  
+- [Twitter - @TalhaArif794](https://twitter.com/TalhaArif794)  
+- [LinkedIn - Talha Arif](https://www.linkedin.com/in/talha-arif-247b67291)  
