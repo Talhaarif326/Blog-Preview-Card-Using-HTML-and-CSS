@@ -32,7 +32,7 @@ Frontend Mentor challenges help improve coding skills by building realistic proj
 - Working with `box-shadow`, `border-radius`, and spacing  
 - Creating a simple **responsive-friendly layout**  
 
-```css
+css
 .container {
   display: flex;
   justify-content: center;
