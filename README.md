@@ -13,7 +13,7 @@ Frontend Mentor challenges help improve coding skills by building realistic proj
 
 ## 🔗 Links
 
-- **Solution Repo:** [GitHub Repository](https://github.com/Talhaarif326/Blog-preview-card)  
+- **Solution Repo:** [GitHub Repository](https://github.com/Talhaarif326/Blog-Preview-Card-Using-HTML-and-CSS)  
 - **Live Site:** [GitHub Pages Demo](https://talhaarif326.github.io/Blog-preview-card/)
 
 ---
