@@ -1,60 +1,87 @@
-# Frontend Mentor - Blog Preview Card
+<div align="center">
 
-This is my solution to the [Blog Preview Card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).  
-Frontend Mentor challenges help improve coding skills by building realistic projects.
+# 📰 Blog Preview Card
+
+> A Frontend Mentor challenge — a clean blog preview card built with pure HTML & CSS.
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-blueviolet)](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
+
+**[Live Demo](https://talhaarif326.github.io/Blog-Preview-Card-Using-HTML-and-CSS/)** · [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
+
+</div>
+
+---
+
+## 📖 Overview
+
+This is my solution to the [Blog Preview Card challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS) on **Frontend Mentor**.
+
+A simple, pixel-accurate blog card component featuring a category tag, publish date, article title, description, and author avatar — styled with pure CSS, no frameworks.
 
 ---
 
 ## 📸 Screenshot
 
-![Blog Preview Card Screenshot](./screenshot.png)
+> 📸 Screenshot coming soon!
 
 ---
 
-## 🔗 Links
+## ✨ What's Included
 
-- **Solution Repo:** [GitHub Repository](https://github.com/Talhaarif326/Blog-Preview-Card-Using-HTML-and-CSS)  
-- **Live Site:** [GitHub Pages Demo](https://talhaarif326.github.io/Blog-Preview-Card-Using-HTML-and-CSS/)
+- 🃏 Blog card with illustration image, category label, and publish date
+- ✍️ Article title, short description, and author with avatar
+- 🎨 Figtree font (Google Fonts)
+- 📱 Responsive layout
 
 ---
 
 ## 🛠️ Built With
 
-- Semantic **HTML5 markup**  
-- **CSS custom properties**  
-- **Flexbox**  
+- Semantic **HTML5**
+- **CSS3** — Flexbox for layout, custom properties for styling
+- [Figtree](https://fonts.google.com/specimen/Figtree) — Google Font
 
 ---
 
-## 📚 What I Learned
+## 🚀 Running Locally
 
-- How to center a card perfectly using **Flexbox**  
-- Working with `box-shadow`, `border-radius`, and spacing  
-- Creating a simple **responsive-friendly layout**  
+```bash
+# Clone the repo
+git clone https://github.com/Talhaarif326/Blog-Preview-Card-Using-HTML-and-CSS.git
 
-```css
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-}
+cd Blog-Preview-Card-Using-HTML-and-CSS
 
+# Open in browser
+open index.html
+```
 
-## 🙌 Useful Resources
-
-- [MDN Web Docs - Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/flex) – Clear explanation and examples of how Flexbox properties work.  
-- [CSS Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) – My go-to cheat sheet whenever I need quick reference for Flexbox.  
-- [Google Fonts](https://fonts.google.com/) – For selecting and embedding fonts easily into the project.  
-- [Frontend Mentor Community](https://www.frontendmentor.io/community) – Great place to see how others approach the same challenge and to get feedback.  
-- [W3Schools CSS Shadows](https://www.w3schools.com/css/css3_shadows_box.asp) – Helpful for understanding and practicing `box-shadow`.  
+Or simply drag `index.html` into your browser.
 
 ---
 
+## 🎯 What I Learned
 
-## 👨‍💻 Author
+- Structuring semantic HTML for card components
+- CSS Flexbox for centering and layout
+- Matching a design spec closely using only vanilla CSS
 
-- GitHub - [Talha Arif](https://github.com/Talhaarif326)  
-- Frontend Mentor - [@Talhaarif326](https://www.frontendmentor.io/profile/Talhaarif326)  
-- Twitter - [@TalhaArif794](https://twitter.com/TalhaArif794)  
-- LinkedIn - [Talha Arif](https://www.linkedin.com/in/talha-arif-247b67291) 
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 🙌 Credits
+
+- Challenge by [Frontend Mentor](https://www.frontendmentor.io)
+- Coded by [Talha Arif](https://github.com/Talhaarif326)
+
+---
+
+<div align="center">
+  <sub>Made with ❤️ using HTML & CSS</sub>
+</div>
